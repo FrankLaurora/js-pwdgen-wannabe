@@ -1,0 +1,23 @@
+/* reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* common */
+body {
+    background-image: url('https://static.wikia.nocookie.net/scrooge-mcduck/images/f/f5/DuckTalesBeagleBoys.jpg/revision/latest?cb=20160925092126');
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    display: inline-block;
+    margin: 1rem;
+    border-radius: 5px;
+    background-color: rgba(100, 148, 237, 0.75);
+    color: greenyellow;
+    line-height: 4rem;
+    vertical-align: middle;
+}

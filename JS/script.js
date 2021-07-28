@@ -8,4 +8,4 @@ var color = prompt('Qual è il tuo colore preferito?')
 var pwd = firstName + lastName + color + "40"
 console.log(pwd)
 //scrittura in pagina
-document.getElementById('new_password').innerHTML = "La tua nuova password è: " + pwd
+document.getElementById('new_password').innerHTML = "La nostra nuova pass... ahem... la TUA nuova password è: " + pwd
